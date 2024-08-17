@@ -1,6 +1,6 @@
 # PRODIGY_CS_02
 
-#Image Encryption Using Pixel Manipulation
+# Image Encryption Using Pixel Manipulation
 
 **Overview**
 
